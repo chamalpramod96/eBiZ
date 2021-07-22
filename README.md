@@ -1,2 +1,2 @@
 # eBiZ
-This is a simple Website for e-commerce.
+This is a simple Website for e-commerce - https://chamalpramod96.github.io/eBiZ/
